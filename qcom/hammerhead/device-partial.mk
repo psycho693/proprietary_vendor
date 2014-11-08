@@ -172,6 +172,3 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/libTimeService.so:system/vendor/lib/libTimeService.so:qcom \
     vendor/qcom/hammerhead/proprietary/librpmb.so:system/vendor/lib/librpmb.so:qcom \
     vendor/qcom/hammerhead/proprietary/libssd.so:system/vendor/lib/libssd.so:qcom \
-    vendor/qcom/hammerhead/proprietary/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk:qcom \
-
-
