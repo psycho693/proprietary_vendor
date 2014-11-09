@@ -171,4 +171,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/libtime_genoff.so:system/vendor/lib/libtime_genoff.so:qcom \
     vendor/qcom/hammerhead/proprietary/libTimeService.so:system/vendor/lib/libTimeService.so:qcom \
     vendor/qcom/hammerhead/proprietary/librpmb.so:system/vendor/lib/librpmb.so:qcom \
-    vendor/qcom/hammerhead/proprietary/libssd.so:system/vendor/lib/libssd.so:qcom 
+    vendor/qcom/hammerhead/proprietary/libssd.so:system/vendor/lib/libssd.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libthermalclient.so:system/vendor/lib/libthermalclient.so:qcom \
+    vendor/qcom/hammerhead/proprietary/libthermalioctl.so:system/vendor/lib/libthermalioctl.so:qcom 
+    
