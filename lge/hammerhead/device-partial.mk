@@ -54,6 +54,9 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so:lge \
     vendor/lge/hammerhead/proprietary/libwvm.so:system/vendor/lib/libwvm.so:lge \
     vendor/lge/hammerhead/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:lge \
-    vendor/lge/hammerhead/proprietary/libvdmengine.so:system/vendor/lib/libvdmengine.so:lge 
-   
-    
+    vendor/lge/hammerhead/proprietary/libvdmengine.so:system/vendor/lib/libvdmengine.so:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b00:system/vendor/firmare/discretix/dxhdcp2.b00:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b01:system/vendor/firmare/discretix/dxhdcp2.b01:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b02:system/vendor/firmare/discretix/dxhdcp2.b02:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.b03:system/vendor/firmare/discretix/dxhdcp2.b03:lge \
+    vendor/lge/hammerhead/proprietary/dxhdcp2.mdt:system/vendor/firmare/discretix/dxhdcp2.mdt:lge 
