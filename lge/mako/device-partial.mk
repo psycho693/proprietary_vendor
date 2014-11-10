@@ -23,6 +23,6 @@ PRODUCT_COPY_FILES := \
     vendor/lge/mako/proprietary/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02:lge \
     vendor/lge/mako/proprietary/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03:lge \
     vendor/lge/mako/proprietary/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt:lge \
-    vendor/lge/mako/proprietary/libwvdrmengine.so:system/vendor/libwvdrmengine.so:lge \
+    vendor/lge/mako/proprietary/libwvdrmengine.so:system/vendor/lib/libwvdrmengine.so:lge \
     vendor/lge/mako/proprietary/libdrmwvmplugin.so:system/vendor/lib/libdrmwvmplugin.so:lge 
 
